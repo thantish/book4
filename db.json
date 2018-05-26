@@ -1,17 +1,12 @@
 {"books":[
- {
+{
    "id": 1,
    "isbn": 954257846,
    "author": "Chinua Achebe",
    "published": "Nigeria",
    "description": "Things Fall Apart",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Nigeria",
-   "language": "English",
-   "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\\n",
-   "pages": 209,
-   "title": "Things Fall Apart",
-   "year": 1958
+   "title": "Things Fall Apart"
  },
  {
    "id": 2,
@@ -20,12 +15,7 @@
    "published": "Denmark",
    "description": "Fairy tales",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Denmark",
-   "language": "Danish",
-   "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\\n",
-   "pages": 784,
-   "title": "Fairy tales",
-   "year": 1836
+   "title": "Fairy tales"
  },
  {
    "id": 3,
@@ -34,12 +24,7 @@
    "published": "Italy",
    "description": "The Divine Comedy",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Italy",
-   "language": "Italian",
-   "link": "https://en.wikipedia.org/wiki/Divine_Comedy\\n",
-   "pages": 928,
-   "title": "The Divine Comedy",
-   "year": 1315
+   "title": "The Divine Comedy"
  },
  {
    "id": 4,
@@ -48,12 +33,7 @@
    "published": "Sumer and Akkadian Empire",
    "description": "The Epic Of Gilgamesh",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Sumer and Akkadian Empire",
-   "language": "Akkadian",
-   "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\\n",
-   "pages": 160,
-   "title": "The Epic Of Gilgamesh",
-   "year": -1700
+   "title": "The Epic Of Gilgamesh"
  },
  {
    "id": 5,
@@ -62,12 +42,7 @@
    "published": "Achaemenid Empire",
    "description": "The Book Of Job",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Achaemenid Empire",
-   "language": "Hebrew",
-   "link": "https://en.wikipedia.org/wiki/Book_of_Job\\n",
-   "pages": 176,
-   "title": "The Book Of Job",
-   "year": -600
+   "title": "The Book Of Job"
  },
  {
    "id": 6,
@@ -76,12 +51,7 @@
    "published": "India/Iran/Iraq/Egypt/Tajikistan",
    "description": "One Thousand and One Nights",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "India/Iran/Iraq/Egypt/Tajikistan",
-   "language": "Arabic",
-   "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\\n",
-   "pages": 288,
-   "title": "One Thousand and One Nights",
-   "year": 1200
+   "title": "One Thousand and One Nights"
  },
  {
    "id": 7,
@@ -90,12 +60,7 @@
    "published": "Iceland",
    "description": "Nj�l's Saga",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Iceland",
-   "language": "Old Norse",
-   "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\\n",
-   "pages": 384,
-   "title": "Nj�l's Saga",
-   "year": 1350
+   "title": "Nj�l's Saga"
  },
  {
    "id": 8,
@@ -104,12 +69,7 @@
    "published": "United Kingdom",
    "description": "Pride and Prejudice",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "United Kingdom",
-   "language": "English",
-   "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\\n",
-   "pages": 226,
-   "title": "Pride and Prejudice",
-   "year": 1813
+   "title": "Pride and Prejudice"
  },
  {
    "id": 9,
@@ -118,12 +78,7 @@
    "published": "France",
    "description": "Le P�re Goriot",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "France",
-   "language": "French",
-   "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\\n",
-   "pages": 443,
-   "title": "Le P�re Goriot",
-   "year": 1835
+   "title": "Le P�re Goriot"
  },
  {
    "id": 10,
@@ -132,12 +87,7 @@
    "published": "Republic of Ireland",
    "description": "Molloy, Malone Dies, The Unnamable, the trilogy",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "country": "Republic of Ireland",
-   "language": "French, English",
-   "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\\n",
-   "pages": 256,
-   "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-   "year": 1952
+   "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
  }
   ]
   }
