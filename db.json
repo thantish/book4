@@ -70,24 +70,6 @@
    "description": "Pride and Prejudice",
    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
    "title": "Pride and Prejudice"
- },
- {
-   "id": 9,
-   "isbn": 954257854,
-   "author": "Honor� de Balzac",
-   "published": "France",
-   "description": "Le P�re Goriot",
-   "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "title": "Le P�re Goriot"
- },
- {
-   "id": 10,
-   "isbn": 954257855,
-   "author": "Samuel Beckett",
-   "published": "Republic of Ireland",
-   "description": "Molloy, Malone Dies, The Unnamable, the trilogy",
-   "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
-   "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
  }
   ]
   }
